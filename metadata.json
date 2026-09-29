@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Online Fuel Delivery Management System",
+  "description": "Comprehensive On-Demand Fuel Delivery Platform with Multi-Role Portals (Admin, Gas Station, Customer), Smart Station Auto-Routing, Real-time Inventory Management, and Full Academic Project Specification/SRS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
